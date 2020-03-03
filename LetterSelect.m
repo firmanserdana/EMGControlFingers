@@ -31,19 +31,5 @@ end
 if L == 10
    Letter = 'W';
 end
-if L == 11
-   Letter = 'Y';
-end
-if L == 12
-   Letter = '3';
-end
-if L == 13
-   Letter = '5';
-end
-if L == 14
-   Letter = '7';
-end
-if L == 15
-   Letter = '8';
-end
+
 end
